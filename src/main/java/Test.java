@@ -3,6 +3,7 @@ public class Test {
         // a
         // b
         // c
+        // d
 
         //d
         B b = new B();
