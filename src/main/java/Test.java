@@ -5,6 +5,7 @@ public class Test {
         // c
         // d
         // e
+        // f
 
         //d
         B b = new B();
